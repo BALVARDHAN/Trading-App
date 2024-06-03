@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  background-color: blueviolet;
+}
+#root {
+  height: 100%;
+}
+.the-ul::-webkit-scrollbar {
+  display: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
